@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Priyank_Namdev
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning B.Tech
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development.
+- 🌱 Currently I'm Pursuing B.Tech in Computer Science.
 - 📫 How to reach me priyank.namdev.21@gmail.com
 
 <!---
